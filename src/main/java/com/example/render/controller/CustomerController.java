@@ -1,6 +1,6 @@
 package com.example.render.controller;;
 
-import com.example.render.Customer;
+import com.example.render.Customer;;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
